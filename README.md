@@ -16,7 +16,7 @@ then calculate each query with a log-distance approach.
 #Files#
 
 1 - MPI Report: contains the main report explaining the whole of the project. Note that the final
-page contains inprecise results that were updated in the subsequent pdf
+page contains imprecise results that were updated in the subsequent pdf
 
 2 - MPI Results: contains the updated (corrected) results (code runtimes) from the above report.
 
